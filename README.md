@@ -1,2 +1,2 @@
-# helpdesk
-aplikasi percobaan dalam mempelajari angular js dan node js
+# CRUD menggunakan Node JS
+aplikasi CRUD sederhana menggunakan Node JS
